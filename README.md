@@ -1,10 +1,10 @@
-__Simulacion-1-rol-Tester-No-Country__
+__Simulacion 1 - Rol Tester - No-Country__
 
 Este repositorio documenta las atreas realizadas en mi primera simulación de No-Country
 
 Mi rol fue TESTER Y DOCUMENTALISTA, único mienbro no code del quipo.
 
-Objetivos:
+Mis objetivos:
   1) Trabajar en equipo, remoto.
   2) Vivir la experiencia de desarrollar un producto.
   3) Aplicar conocimientos y herramientas aprendidos.
