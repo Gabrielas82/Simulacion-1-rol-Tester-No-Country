@@ -1,4 +1,4 @@
-__Simulación 1 - Rol - Tester - No-Country__
+__Simulación 1 - Rol - Tester - No - Country__
 
 Este repositorio documenta las atreas realizadas en mi primera simulación de No-Country
 
