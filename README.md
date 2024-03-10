@@ -1,4 +1,4 @@
-__Simulación 1 - Rol - Tester - No - Country__
+##Simulación 1 - Rol - Tester - No - Country
 
 Este repositorio documenta las atreas realizadas en mi primera simulación de No-Country
 
@@ -14,6 +14,7 @@ Link al proyecto: https://github.com/No-Country/C16-74-n-python.git
 
 ## Algunas de las tareas que realicé:
 
-![Descripción de la Imagen]([enlace/a/tu/imagen.jpg](https://github.com/Gabrielas82/GS-Simulacion-1-Rol-Tester-No-Country/blob/main/MAPA%20DEL%20SITIO%20GoFitApp.pdf))
+![MAPA DEL SITIO]([(https://github.com/Gabrielas82/GS-Simulacion-1-Rol-Tester-No-Country/blob/main/MAPA%20DEL%20SITIO%20GoFitApp.pdf])
+
 [Documento PDF]()
 
