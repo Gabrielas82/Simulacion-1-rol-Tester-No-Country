@@ -1,4 +1,4 @@
-##Simulación 1 - Rol - Tester - No - Country##
+## Simulación 1 - Rol - Tester - No - Country 
 
 Este repositorio documenta las atreas realizadas en mi primera simulación de No-Country
 
@@ -20,5 +20,5 @@ Link al proyecto: https://github.com/No-Country/C16-74-n-python.git
 
 ![DIAGRAMA ENTIDAD RELACIÓN](./DER-2%20GoFitApp_page-0001.jpg)
 
-[MÍNIMO VITAL PRODUCTO](./MVP%20GoFitApp.pdf)
+[PRODUCTO MÍNIMO VITAL](./MVP%20GoFitApp.pdf)
 
