@@ -15,4 +15,4 @@ Link al proyecto: https://github.com/No-Country/C16-74-n-python.git
 ## Algunas de las tareas que realicé:
 
 ![Descripción de la Imagen](enlace/a/tu/imagen.jpg)
-[Documento PDF](docs/documento.pdf)
+[Mapa del sitio realizado en MIRO](MAPA DEL SITIO GoFitApp.pdf)
