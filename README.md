@@ -18,5 +18,5 @@ Link al proyecto: https://github.com/No-Country/C16-74-n-python.git
 
 ![MAPA DEL SITIO](./MAPA%20DEL%20SITIO%20GoFitApp_page-0001.jpg)
 
-[HISTORIAS DE USUARIO](./https://github.com/Gabrielas82/GS-Simulacion-1-Rol-Tester-No-Country/blob/05795bf1d54bc4c2d4b0d4de8172c30bd13454d7/HISTORIAS%20DE%20USUARIO%20GoFitApp.pdf)
+[HISTORIAS DE USUARIO](./HISTORIAS%20DE%20USUARIO%20GoFitApp.pdf)
 
