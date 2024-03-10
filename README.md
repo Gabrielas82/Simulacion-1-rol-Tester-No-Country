@@ -11,3 +11,5 @@ Mis objetivos:
   4) Aprender nuevas herramientas.
 
 Link al proyecto: https://github.com/No-Country/C16-74-n-python.git
+
+## Algunas de las tareas que realicé:
