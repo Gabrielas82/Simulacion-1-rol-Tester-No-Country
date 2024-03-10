@@ -12,6 +12,10 @@ Mis objetivos:
 
 Link al proyecto: https://github.com/No-Country/C16-74-n-python.git
 
+Esta experiencia fue asombrosa en muchos aspectos, reforzó la confianza en mis conocimientos y habilidades blandas, pero lo más importante, me dejó un equipo y eso es invaluable.
+Nuestro equipo fue elegido al azar y, a pesar de los desafíos que enfrentamos, como la salida de algunos compañeros, problemas de integración de componentes y compatibilidad entre herramientas, logramos adaptarnos y presentar un MVP exitoso.
+En este proceso, nos elegimos y nos forjamos como un verdadero equipo. Ese es el principal éxito de esta experiencia.
+
 ## Algunas de las tareas que realicé:
 
 ![MAPA DEL SITIO](./MAPA%20DEL%20SITIO%20GoFitApp_page-0001.jpg)
