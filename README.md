@@ -16,4 +16,4 @@ Link al proyecto: https://github.com/No-Country/C16-74-n-python.git
 
 [HISTORIAS DE USUARIO]()
 
-![MAPA DEL SITIO](./[MAPA DEL SITIO GoFitApp_page-0001.jpg])
+![MAPA DEL SITIO](./MAPA DEL SITIO GoFitApp_page-0001.jpg)
