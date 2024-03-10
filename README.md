@@ -14,9 +14,11 @@ Link al proyecto: https://github.com/No-Country/C16-74-n-python.git
 
 ## Algunas de las tareas que realicé:
 
-[HISTORIAS DE USUARIO]()
-
 ![MAPA DEL SITIO](./MAPA%20DEL%20SITIO%20GoFitApp_page-0001.jpg)
 
 [HISTORIAS DE USUARIO](./HISTORIAS%20DE%20USUARIO%20GoFitApp.pdf)
+
+![DIAGRAMA ENTIDAD RELACIÓN](./DER-2%20GoFitApp_page-0001.jpg)
+
+[HISTORIAS DE USUARIO](./
 
