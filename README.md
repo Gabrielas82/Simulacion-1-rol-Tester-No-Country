@@ -15,4 +15,4 @@ Link al proyecto: https://github.com/No-Country/C16-74-n-python.git
 ## Algunas de las tareas que realicé:
 
 ![Descripción de la Imagen](enlace/a/tu/imagen.jpg)
-[Mapa del sitio realizado en MIRO](MAPA DEL SITIO GoFitApp.pdf)
+[Mapa del sitio realizado en MIRO](https://github.com/Gabrielas82/GS-Simulacion-1-Rol-Tester-No-Country/blob/main/MAPA%20DEL%20SITIO%20GoFitApp.pdf)
