@@ -20,5 +20,5 @@ Link al proyecto: https://github.com/No-Country/C16-74-n-python.git
 
 ![DIAGRAMA ENTIDAD RELACIÓN](./DER-2%20GoFitApp_page-0001.jpg)
 
-[HISTORIAS DE USUARIO](./
+[MÍNIMO VITAL PRODUCTO](./MVP%20GoFitApp.pdf)
 
