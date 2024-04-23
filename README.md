@@ -1,3 +1,12 @@
+## Simulación 2 - Rol - Project Manager-Analista BI - No - Country
+En la segunda simulación me uní a un grupo de ANÁLISIS DE DATOS, en el rol de Data BI.
+Mi intervención consistió en realizar el DASHBOARD del proyecto ANÁLISIS DE TRÁFICO AÉREO.
+Utilizamos un data set de
+https://www.transportation.gov/policy/aviation-policy/us-international-air-passenger-and-freight-statistics-report
+El dashboard fue realizado en LOOKER STUDIO.
+
+
+
 ## Simulación 1 - Rol - Tester - No - Country 
 
 Este repositorio documenta las atreas realizadas en mi primera simulación de No-Country
